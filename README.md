@@ -1,4 +1,13 @@
-[![didix13's GitHub stats](https://github-readme-stats.vercel.app/api?username=didix13&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![didix13's GitHub stats](https://github-readme-stats.vercel.app/api?username=didix13&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=didix13&show_icons=true&hide=contribs&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=didix13&layout=compact&theme=material-palenight" />
+</a>
+
 <!--
 **DIDIx13/didix13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
